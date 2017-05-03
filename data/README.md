@@ -1,5 +1,5 @@
 # **Important!
-The files downloaded from the FDA are really huge, not surprising really as they contain data relating to every reported adverse drug effect in the USA that occurred in 2016 - GitHub wont allow anything bugger than 25MB. I managed to get the INDICATIONS, OUTC and RPSC data for the four quarters of 2016 into one zip but DRUG and REAC are individual zip files - sorry! It's either my zip files or download direct from FDA.
+The files downloaded from the FDA are really huge, not surprising really as they contain data relating to every reported adverse drug effect in the USA that occurred in 2016 - GitHub wont allow anything bugger than 25MB. I managed to get the INDICATIONS, OUTC and RPSC data for the four quarters of 2016 into one zip but DRUG and REAC are individual zip files - sorry! It's either my zip files or download direct from FDA using the URL at the bottom of the page.
 
 FAERS (Adverse Event Reporting System )are available both in ASCII and XML formats. The ASCII files are encoded
 in UTF-8, which provides for the most compact practical form of information storage;
