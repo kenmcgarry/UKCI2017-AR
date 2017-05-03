@@ -7,19 +7,19 @@ although this also occasionally causes question marks to (literally) appear when
 are used that are not encoded by UTF-8. A quarterly report contains several subsets
 of information:
 
-– Demographics (DEMO); basic patient information.
+– `Demographics (DEMO)`; basic patient information.
 
-– Drug types (DRUG); a list of drugs administered to patients. 
+– `Drug types (DRUG)`; a list of drugs administered to patients. 
 
-– Indications (INDI); why they were given the drug initially.
+– `Indications (INDI)`; why they were given the drug initially.
 
-– Outcomes (OUTC); the end result, e.g. hospitalisation, death.
+– `Outcomes (OUTC)`; the end result, e.g. hospitalisation, death.
 
-– Reactions (REAC); side effect(s) experienced.
+– `Reactions (REAC)`; side effect(s) experienced.
 
-– Reporting sources (RPSR); where the information originated from.
+– `Reporting sources (RPSR)`; where the information originated from.
 
-– Therapy types (THER); how and when the drug was administered.
+– `Therapy types (THER)`; how and when the drug was administered.
 
 These files can be obtained from:
 
