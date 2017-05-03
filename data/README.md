@@ -6,8 +6,9 @@ in UTF-8, which provides for the most compact practical form of information stor
 although this also occasionally causes question marks to (literally) appear when characters
 are used that are not encoded by UTF-8. A quarterly report contains several subsets
 of information:
-– Demographics (DEMO); basic patient information.
-– Drug types (DRUG); a list of drugs administered to patients (Table 1).
+
+– Demographics (DEMO); basic patient information.\n
+– Drug types (DRUG); a list of drugs administered to patients. \n
 – Indications (INDI); why they were given the drug initially.
 – Outcomes (OUTC); the end result, e.g. hospitalisation, death.
 – Reactions (REAC); side effect(s) experienced (Table 2).
