@@ -1,5 +1,5 @@
 # **Important!
-The files downloaded from the FDA are really huge - GitHub wont allow anything bugger than 25MB. I managed to get the INDICATIONS for the four quarters of 2016 into one zip but the others are individual zip files - sorry! It's either my zip files or downlaod direct from FDA.
+The files downloaded from the FDA are really huge, not surprising really as they contain data relating to every reported adverse drug effect in the USA that occurred in 2016 - GitHub wont allow anything bugger than 25MB. I managed to get the INDICATIONS for the four quarters of 2016 into one zip but the others are individual zip files - sorry! It's either my zip files or downlaod direct from FDA.
 
 FAERS (Adverse Event Reporting System )are available both in ASCII and XML formats. The ASCII files are encoded
 in UTF-8, which provides for the most compact practical form of information storage;
