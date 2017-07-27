@@ -25,4 +25,7 @@ Tsao, P.S., Kohane, I., Roden, D.M., Altman, R.B.: Detecting drug interactions f
 reports: interaction between paroxetine and pravastatin increases blood glucose levels.
 Clinical pharmacology and therapeutics 90, 133–42 (2011)
 
+> Wang, F., Zhang, P., Cao, N., Hu, J., Sorrentino, R.: Exploring the associations between drug
+side-effects and therapeutic indications. Journal of Biomedical Informatics 51, 15–23 (2014)
+
 ## project last updated 27th July 2017
